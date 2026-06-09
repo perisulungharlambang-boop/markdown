@@ -1,0 +1,6 @@
+{
+  "name": "README.md Generator",
+  "description": "A high-fidelity tool to automatically generate structured README.md guides tailored for AI-assisted Vibe Coding in VS Code/Cursor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
